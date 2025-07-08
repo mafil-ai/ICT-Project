@@ -1,7 +1,3 @@
-Based on the codebase context, I can now create a comprehensive README.md for your `mafil-ai/ICT-Project` repository. This is a Streamlit-based AI chatbot application for Manappuram Finance with dual functionality for document Q&A and CSV data analysis.
-
-
-
 # Manappuram AI Assistant
 
 A dual-mode AI-powered assistant built for Manappuram Finance, featuring both document-based Q&A and CSV data analysis capabilities using Google's Gemini AI and ChromaDB vector storage.
