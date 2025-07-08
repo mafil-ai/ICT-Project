@@ -1,4 +1,6 @@
 # Manappuram AI Assistant
+![App Screenshot 1](ss-1.png)
+![App Screenshot 2](ss-2.png)
 
 A dual-mode AI-powered assistant built for Manappuram Finance, featuring both document-based Q&A and CSV data analysis capabilities using Google's Gemini AI and ChromaDB vector storage.
 
